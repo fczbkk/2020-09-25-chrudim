@@ -11,6 +11,7 @@ function capitalize (content) {
 
 function doSomething () {
   console.log('do something')
+  // unbreak stuff
 }
 
 /**
