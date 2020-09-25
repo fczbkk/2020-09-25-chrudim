@@ -9,6 +9,10 @@ function capitalize (content) {
   return letters.join('')
 }
 
+function doSomething () {
+  console.log('do something')
+}
+
 /**
  * Creates greeting for a person.
  * @param {string} name
